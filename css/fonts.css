@@ -1,0 +1,20 @@
+
+@font-face {
+	font-family: "Montserrat-Bold";
+	src: url("../fonts/montserrat/Montserrat-Bold.eot");
+	src: url("../fonts/montserratr/Montserrat-Bold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/montserrat/Montserrat-Bold.woff") format("woff"),
+			 url("../fonts/montserrat/Montserrat-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "KaushanScript-Regular";
+	src: url("../fonts/KaushanScript-Regular/KaushanScript-Regular.eot");
+	src: url("../fonts/KaushanScript-Regular/KaushanScript-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/KaushanScript-Regular/KaushanScript-Regular.woff") format("woff"),
+			 url("../fonts/KaushanScript-Regular/KaushanScript-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
